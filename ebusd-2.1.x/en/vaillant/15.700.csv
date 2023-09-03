@@ -163,7 +163,7 @@ r;w,,z1BankHolidayStartPeriod,bank holiday start zone 1,,,,0C00,,,hfrom,,,start 
 r;w,,z1BankHolidayEndPeriod,bank holiday end zone 1,,,,0D00,,,hto,,,end date of bank holidays for zone 1
 r;w,,z1SFMode,SF mode zone 1,,,,0E00,,,sfmode,,,
 r,,z1RoomTemp,room temperature zone 1,,,,0F00,,,tempv,,,current room temperature in zone 1
-r;w,,z1ValveStatus,valve status zone 1,,,,1200,,,UCH,1=open;0=close,,valve status of zone 1
+r,,z1ValveStatus,valve status zone 1,,,,1200,,,UCH,1=open;0=close,,valve status of zone 1
 r;w,,z1RoomZoneMapping,room zone mapping zone 1,,,,1300,,,zmapping,,,configures which room temperature is assigned to zone 1
 r,,z1ActualRoomTempDesired,room temperature desired zone 1,,,,1400,,,tempv,,,current room setpoint considering all basic conditions passed to the control algorithms
 #r;w,,z1Unknown15Temp,(in noise reduction 24 otherwise 99 - max.air level?) temperature zone 1,,,,1500,,,tempv,,,unknown value for zone 1
