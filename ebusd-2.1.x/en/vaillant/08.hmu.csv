@@ -53,7 +53,7 @@ r,,CoolantCompressorHysteresis,D.363 Coolant compressor hysteresis,,,,353f,,,D2C
 # Total heating yields,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 *r,,,,,,B516,18,,,IGN:1,,,,,,,,,,,,,,,,,,,,,,,,,,
 r,,YieldTotal,,,,,01,,,energy,,,,,,,,,,,,,,,,,,,,,,,,,,
-# Total electric power consumption,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# Total electric power consumption,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 r,,ConsumptionTotal,,,,,02,,,energy,,,,,,,,,,,,,,,,,,,,,,,,,,
 # Ecologic energy Yields,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 *r,,,,,,B516,1A01,,,IGN:1,,,,,,,,,,,,,,,,,,,,,,,,,,
